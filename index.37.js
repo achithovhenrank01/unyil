@@ -133,3 +133,4 @@ console.log(
 );
 
 Array.apply(0, Array(8)).forEach(scan);
+
